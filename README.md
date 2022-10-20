@@ -1,6 +1,6 @@
 <h1>Hi there 🦁</h1>
 <p>I'm Jose Morales, computer science student💻<p>
-Passionate about frontend, backend and cybersecurity.<br>
+Passionate about frontend, backend, 3d animation and cybersecurity.<br>
 Focused on engaging more people in the world of digital technology, I am currently working on personal and school projects.<br>
 Here you will find my independent projects📚<br>
 
